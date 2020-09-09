@@ -4,7 +4,9 @@
 
 Ver en vivo : <a href="https://todo-app-4644c.web.app/">DEMO</a></p>
 
-## React JS
-## Firebase host + DB
-## Full CRUD
-## Material UI para el diseño
+<ul>
+  <li>React JS</li>
+  <li>Firebase host + DB</li>
+  <li>Full CRUD</li>
+  <li>Material UI para el diseño</li>
+</ul>
